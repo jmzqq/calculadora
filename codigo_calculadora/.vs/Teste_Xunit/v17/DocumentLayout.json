@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\joao.vaz\\Documents\\Teste_Xunit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{092770D8-5C85-4AF2-888B-8EC5AA600D65}|Teste_Xunit\\Teste_Xunit.csproj|c:\\users\\joao.vaz\\documents\\teste_xunit\\teste_xunit\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092770D8-5C85-4AF2-888B-8EC5AA600D65}|Teste_Xunit\\Teste_Xunit.csproj|solutionrelative:teste_xunit\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092770D8-5C85-4AF2-888B-8EC5AA600D65}|Teste_Xunit\\Teste_Xunit.csproj|c:\\users\\joao.vaz\\documents\\teste_xunit\\teste_xunit\\calculadorateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092770D8-5C85-4AF2-888B-8EC5AA600D65}|Teste_Xunit\\Teste_Xunit.csproj|solutionrelative:teste_xunit\\calculadorateste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{092770D8-5C85-4AF2-888B-8EC5AA600D65}|Teste_Xunit\\Teste_Xunit.csproj|c:\\users\\joao.vaz\\documents\\teste_xunit\\teste_xunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{092770D8-5C85-4AF2-888B-8EC5AA600D65}|Teste_Xunit\\Teste_Xunit.csproj|solutionrelative:teste_xunit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vaz\\Documents\\Teste_Xunit\\Teste_Xunit\\Program.cs",
+              "RelativeDocumentMoniker": "Teste_Xunit\\Program.cs",
+              "ToolTip": "C:\\Users\\joao.vaz\\Documents\\Teste_Xunit\\Teste_Xunit\\Program.cs",
+              "RelativeToolTip": "Teste_Xunit\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T18:11:17.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculadoraTeste.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vaz\\Documents\\Teste_Xunit\\Teste_Xunit\\CalculadoraTeste.cs",
+              "RelativeDocumentMoniker": "Teste_Xunit\\CalculadoraTeste.cs",
+              "ToolTip": "C:\\Users\\joao.vaz\\Documents\\Teste_Xunit\\Teste_Xunit\\CalculadoraTeste.cs",
+              "RelativeToolTip": "Teste_Xunit\\CalculadoraTeste.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwBsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:11:11.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\joao.vaz\\Documents\\Teste_Xunit\\Teste_Xunit\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Teste_Xunit\\Calculadora.cs",
+              "ToolTip": "C:\\Users\\joao.vaz\\Documents\\Teste_Xunit\\Teste_Xunit\\Calculadora.cs",
+              "RelativeToolTip": "Teste_Xunit\\Calculadora.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T17:08:15.073Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
